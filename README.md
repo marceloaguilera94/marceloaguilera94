@@ -4,7 +4,6 @@
   Senior Developer with outstanding experience and talents in various fields - Full stack web and mobile development, as well as cryptocurrency. Remarkable achievements have been made with over 3 years of web, mobile, desktop applications design, development and maintenance. More than 4 years of Blockchain world gave a huge impact with boosting Web 3.0. Full stack prowess extends to frontend frameworks like React, Vue, Angular, Nextjs and backend frameworks like Express, SpringBoot, Django. Possess an in-depth understanding of blockchain ecosystems, including Ethereum, Solana, and Binance Smart Chain. I’ve deployed smart contracts, built NFT marketplaces, and optimized transaction throughput. Feel free to connect with me and I am always ready to change the world. Let's make something amazing!!!
 </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
