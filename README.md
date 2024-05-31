@@ -1,6 +1,6 @@
 <h3 align="center">A creative, passionate and outstanding developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legendarydev320" alt="legendarydev320" /></a> </p>
+<p align="left"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
