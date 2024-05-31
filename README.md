@@ -1,3 +1,5 @@
+<h1 align="left">Senior Full Stack Web & Blockchain Developer</h1>
+<br/>
 <h3 align="center">A creative, passionate and outstanding developer</h3>
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURMfzdagXpFv_o10sA3RGssHyDHRfOMWQknKMRc4LR6CRXMOOglBXtlOiGQ&s" width="400" />
