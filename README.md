@@ -1,4 +1,4 @@
-<h1 align="left">Senior Full Stack Web & Blockchain Developer</h1>
+<h1 align="left">Senior Full Stack Web & Blockchain Developer</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 <br/>
 <h3 align="center">A creative, passionate and outstanding developer</h3>
 
