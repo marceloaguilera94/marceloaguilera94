@@ -1,15 +1,20 @@
-<h1 align="left">Senior Full Stack Blockchain Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> </h1> 
+<h1 align="left">Senior Full Stack Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> </h1> 
 <br/>
-<h3 align="center">A creative, passionate and outstanding developer</h3>
+<h3 align="center">A creative, passionate and outstanding engineer</h3>
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURMfzdagXpFv_o10sA3RGssHyDHRfOMWQknKMRc4LR6CRXMOOglBXtlOiGQ&s" width="400" />
 
 <p align="left">
-  Senior Developer with outstanding experience and talents in various fields - Full stack web and mobile development, as well as cryptocurrency. Remarkable achievements have been made with over 3 years of web, mobile, desktop applications design, development and maintenance. More than 4 years of Blockchain world gave a huge impact with boosting Web 3.0. Full stack prowess extends to frontend frameworks like React, Vue, Angular, Nextjs and backend frameworks like Express, SpringBoot, Django. Possess an in-depth understanding of blockchain ecosystems, including Ethereum, Solana, and Binance Smart Chain. I’ve deployed smart contracts, built NFT marketplaces, and optimized transaction throughput. Feel free to connect with me and I am always ready to change the world. Let's make something amazing!!!
+  Senior Developer with outstanding experience and talents in various fields - Full stack web and mobile development. Remarkable achievements have been made with over 8 years of web, mobile, desktop applications design, development and maintenance. Full stack prowess extends to frontend frameworks like React, Vue, Angular, Nextjs and backend frameworks like Express, SpringBoot, Golang, Django. Highly experienced in building microservice-based backend systems. Feel free to connect with me and I am always ready to change the world. Let's make something amazing!!!
 </p>
 
 <p align="left">
 </p>
+
+<h3 align="left">Contact Me</h3>
+<p>- Email: marceloaguilera94@outlook.com</p>
+<p>- Location: 15 Giorgi Chikvaidze Street, Tbilisi 0198, Georgia </p>
+<p>- Phone: +995 592183262</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -35,6 +40,6 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a><a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legendarydev320&show_icons=true&locale=en&layout=compact" alt="legendarydev320" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloaguilera94&show_icons=true&locale=en&layout=compact" alt="marceloaguilera94" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legendarydev320&show_icons=true&locale=en" alt="legendarydev320" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloaguilera94&show_icons=true&locale=en" alt="marceloaguilera94" /></p>
